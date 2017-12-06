@@ -1,5 +1,5 @@
 {
-  "name": "@webcomponents/webcomponentsjs",
+  "name": "webcomponents-v1-polyfill",
   "version": "1.0.20",
   "description": "Web Components Polyfills",
   "main": "webcomponents-lite.js",
